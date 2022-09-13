@@ -35,7 +35,7 @@ $faq=[
     ],
 ];
 // $array($faq) |as| $chiave($key) => $valore($listaFaq) - dati dell'elemento corrente
-// $array($listFaq) |as| $chiave($ans) => $valore($ans) - dati dell'elemento corrente
+// $array($listFaq) |as| $chiave($ans) => $valore($ans) -dati dell'elemento corrente
 
 foreach($faq as $key => $listFaq) {
     echo "<h4>$key</h4>";
